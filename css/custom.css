@@ -1,0 +1,64 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* https://coolors.co/333745-e63462-fe5f55-c7efcf-eef5db */
+
+.customNav{
+    background-color: #e8f6c3 !important;
+}
+
+mark{
+    background: #e6346358;
+}
+
+body{
+    background-color: #faecdc8f;
+    /* minimalist font to adhere to the aesthetic of the website */
+    font-family: "Noto Sans", sans-serif;
+}
+
+.customMargin{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.customNav a:hover{
+    color: #333745;
+    text-decoration: underline;
+}
+
+.customBottomMargin{
+    margin-bottom: 20px;
+}
+
+.figure-caption{
+    color: #333745 !important;
+}
+
+.customNav a{
+    color: #E63462;
+}
+
+#customHomeImg{
+    max-width: 50%;
+}
+
+.customFigure{
+    max-width: 50%;
+}
+
+.customImg{
+    max-width: 50%;
+}
+
+.customAbt a{
+    color: #E63462;
+}
+
+.customAbt p{
+    color: #333745;
+}
+
+.customHome h3, p{
+    color: #244F26
+}
